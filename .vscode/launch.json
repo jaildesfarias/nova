@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OxefoodApiJaildesApplication<oxefood-api-jaildes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.ifpe.oxefood.OxefoodApiJaildesApplication",
+            "projectName": "oxefood-api-jaildes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
